@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Vivado Projects/MyFirstPWM/MyFirstPWM.srcs/sources_1/new/pwm_top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pwm_top
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Vivado Projects/MyFirstPWM/MyFirstPWM.srcs/sources_1/new/pwmgenerate.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pwmgenerate
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Vivado Projects/MyFirstPWM/MyFirstPWM.srcs/sources_1/new/pwm_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pwm_tb
