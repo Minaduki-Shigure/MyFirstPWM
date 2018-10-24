@@ -1,6 +1,6 @@
 webtalk_init -webtalk_dir D:/Vivado Projects/MyFirstPWM/MyFirstPWM.sim/sim_1/behav/xsim/xsim.dir/pwm_tb_behav/webtalk/
 webtalk_register_client -client project
-webtalk_add_data -client project -key date_generated -value "Wed Oct 24 19:32:26 2018" -context "software_version_and_target_device"
+webtalk_add_data -client project -key date_generated -value "Wed Oct 24 19:38:16 2018" -context "software_version_and_target_device"
 webtalk_add_data -client project -key product_version -value "XSIM v2018.2 (64-bit)" -context "software_version_and_target_device"
 webtalk_add_data -client project -key build_version -value "2258646" -context "software_version_and_target_device"
 webtalk_add_data -client project -key os_platform -value "WIN64" -context "software_version_and_target_device"
@@ -14,7 +14,7 @@ webtalk_add_data -client project -key target_package -value "not_applicable" -co
 webtalk_add_data -client project -key target_speed -value "not_applicable" -context "software_version_and_target_device"
 webtalk_add_data -client project -key random_id -value "5306d5cd-23dd-44e2-b635-812921bfc48d" -context "software_version_and_target_device"
 webtalk_add_data -client project -key project_id -value "c65de36b1a694f4d9f6279ed636a774f" -context "software_version_and_target_device"
-webtalk_add_data -client project -key project_iteration -value "12" -context "software_version_and_target_device"
+webtalk_add_data -client project -key project_iteration -value "14" -context "software_version_and_target_device"
 webtalk_add_data -client project -key os_name -value "Microsoft Windows 8 or later , 64-bit" -context "user_environment"
 webtalk_add_data -client project -key os_release -value "major release  (build 9200)" -context "user_environment"
 webtalk_add_data -client project -key cpu_name -value "Intel(R) Core(TM) i7-8550U CPU @ 1.80GHz" -context "user_environment"
@@ -26,7 +26,7 @@ webtalk_add_data -client xsim -key Command -value "xsim" -context "xsim\\command
 webtalk_add_data -client xsim -key trace_waveform -value "true" -context "xsim\\usage"
 webtalk_add_data -client xsim -key runtime -value "1 us" -context "xsim\\usage"
 webtalk_add_data -client xsim -key iteration -value "1" -context "xsim\\usage"
-webtalk_add_data -client xsim -key Simulation_Time -value "0.30_sec" -context "xsim\\usage"
-webtalk_add_data -client xsim -key Simulation_Memory -value "8128_KB" -context "xsim\\usage"
-webtalk_transmit -clientid 1288389374 -regid "" -xml D:/Vivado Projects/MyFirstPWM/MyFirstPWM.sim/sim_1/behav/xsim/xsim.dir/pwm_tb_behav/webtalk/usage_statistics_ext_xsim.xml -html D:/Vivado Projects/MyFirstPWM/MyFirstPWM.sim/sim_1/behav/xsim/xsim.dir/pwm_tb_behav/webtalk/usage_statistics_ext_xsim.html -wdm D:/Vivado Projects/MyFirstPWM/MyFirstPWM.sim/sim_1/behav/xsim/xsim.dir/pwm_tb_behav/webtalk/usage_statistics_ext_xsim.wdm -intro "<H3>XSIM Usage Report</H3><BR>"
+webtalk_add_data -client xsim -key Simulation_Time -value "0.22_sec" -context "xsim\\usage"
+webtalk_add_data -client xsim -key Simulation_Memory -value "8236_KB" -context "xsim\\usage"
+webtalk_transmit -clientid 1683775358 -regid "" -xml D:/Vivado Projects/MyFirstPWM/MyFirstPWM.sim/sim_1/behav/xsim/xsim.dir/pwm_tb_behav/webtalk/usage_statistics_ext_xsim.xml -html D:/Vivado Projects/MyFirstPWM/MyFirstPWM.sim/sim_1/behav/xsim/xsim.dir/pwm_tb_behav/webtalk/usage_statistics_ext_xsim.html -wdm D:/Vivado Projects/MyFirstPWM/MyFirstPWM.sim/sim_1/behav/xsim/xsim.dir/pwm_tb_behav/webtalk/usage_statistics_ext_xsim.wdm -intro "<H3>XSIM Usage Report</H3><BR>"
 webtalk_terminate

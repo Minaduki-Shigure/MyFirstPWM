@@ -42,9 +42,10 @@ module pwmgenerate(
                     pwmwave <= 0;
                     cnt <= cnt + 1'b1;
                 end
-            else if (cnt == 4'd9)
+            else if (cnt == 4'd10)
                 begin
-                    cnt <= 0;
+                    cnt <= 1;
+                    pwmwave <= 1;
                 end
             else
                 cnt <= cnt + 1'b1;
