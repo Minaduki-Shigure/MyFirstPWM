@@ -31,7 +31,7 @@ always @ (posedge CLK)
 采用`reg`型变量`[3:0]cnt`进行计数。  
 当`cnt==0`时，将波形输出置为1，并且每过一个时钟周期，将cnt的值+1，若`cnt==10`，则开始一个新的PWM周期，此时重新将波形输出置为1，并且将`cnt`的值重置为**1**。  
 若`cnt==n`，则波形输出置为0，生成下降沿。
-## About `pwm_tb.v`
+## About `pwm_tb.v`(Test Bench)
 仿真程序下，为了方便，将CLK设置为`#1 CLK = ~CLK;` 即时钟周期为2ps，实际效果没有区别。  
 仿真测试了当拨码开关单独打开和一起打开时测试的结果，以验证PWM生成代码和优先编码器的工作状况。  
 ![pwm_tb_result](http://www.in-flame-team.com/pwm_tb_result.png)
