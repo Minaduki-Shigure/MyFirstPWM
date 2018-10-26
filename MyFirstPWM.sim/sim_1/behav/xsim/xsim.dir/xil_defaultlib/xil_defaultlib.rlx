@@ -3,6 +3,6 @@
 Jun 14 2018
 20:41:02
 D:/Vivado Projects/MyFirstPWM/MyFirstPWM.sim/sim_1/behav/xsim/glbl.v,1529022455,verilog,,,,glbl,,,,,,,,
-,,,,,,pwm_tb,,,,,,,,
+D:/Vivado Projects/MyFirstPWM/MyFirstPWM.srcs/sources_1/new/pwm_tb.v,1540380461,verilog,,,,pwm_tb,,,,,,,,
 D:/Vivado Projects/MyFirstPWM/MyFirstPWM.srcs/sources_1/new/pwm_top.v,1540380606,verilog,,D:/Vivado Projects/MyFirstPWM/MyFirstPWM.srcs/sources_1/new/pwmgenerate.v,,pwm_top,,,,,,,,
 D:/Vivado Projects/MyFirstPWM/MyFirstPWM.srcs/sources_1/new/pwmgenerate.v,1540381035,verilog,,D:/Vivado Projects/MyFirstPWM/MyFirstPWM.srcs/sources_1/new/pwm_tb.v,,pwmgenerate,,,,,,,,
